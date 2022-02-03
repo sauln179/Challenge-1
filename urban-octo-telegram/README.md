@@ -10,4 +10,5 @@ In order to complete this the following had to be completed:
 ![Screen Shot 2022-02-02 at 6 34 08 PM](https://user-images.githubusercontent.com/79173328/152271988-8e96953d-03dc-4ae9-a11b-e7c5eb81d946.png) <br />
 #*-All heading attributes have a logical sequence<br />
 #*-title is descriptive<br />
-![Screen Shot 2022-02-02 at 6 35 19 PM](https://user-images.githubusercontent.com/79173328/152272100-50132eb4-1c1e-443e-99e3-4cbaa161bdb8.png) <br />
+![Screen Shot 2022-02-02 at 6 41 12 PM](https://user-images.githubusercontent.com/79173328/152273218-5b2d3cc7-13fe-4e14-8996-37656cdf4824.png) <br />
+
